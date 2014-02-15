@@ -54,7 +54,7 @@ hsc mapper.py reducer.py forum_data posts_by_date
 
 where:
 * "forum_data" is the folder in the HDFS containing the forum node text records
-* "inverted_index" is the output data folder, it is important that this folder doesn't already exist.
+* "posts_by_date" is the output data folder, it is important that this folder doesn't already exist.
 
 ### Output
 
