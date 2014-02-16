@@ -31,4 +31,3 @@ for line in sys.stdin:
 
 if oldDate != None:
     print oldDate, "\t", postsTotal
-
