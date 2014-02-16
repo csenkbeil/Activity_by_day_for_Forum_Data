@@ -27,4 +27,3 @@ for row in reader:
     except ValueError:
         pass # ignore ValueError, skip situations where a header is presented instead of a datetime string.
     
-
