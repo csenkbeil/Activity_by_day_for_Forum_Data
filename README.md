@@ -1,4 +1,4 @@
-Post Acitivity by Date for Forum Data
+Post Activity by Date for Forum Data
 ==============================
 
 Basic MapReduce Hadoop Streaming Python scripts to measure post activity in forum data by date.
